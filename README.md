@@ -1,16 +1,18 @@
-## Hi there 👋
+### Boas vindas ao meus perfil 💚 
 
-<!--
-**GabrielRibR/GabrielRibR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Gabriel R.
 
-Here are some ideas to get you started:
+- Ainda sou um estudante do ensino médio
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JasaScript
+- Sei o básico de HTML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voce entrar em contato comigo 📫
+
+ rakoagabriel@gamil.com 
+ 
+ [@biel.rxe](https://www.instagram.com/biel.rxe/)
+
+ ![](https://media.tenor.com/Ip8PIT3v1FAAAAAi/123a.gif)
+ 
+ 
