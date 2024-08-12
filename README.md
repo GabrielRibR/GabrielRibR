@@ -9,10 +9,9 @@ Meu nome é Gabriel R.
 
 ### Voce entrar em contato comigo 📫
 
- rakoagabriel@gamil.com 
- 
- [@biel.rxe](https://www.instagram.com/biel.rxe/)
+-  rakoagabriel@gamil.com 
+-  [@biel.rxe](https://www.instagram.com/biel.rxe/)
 
- ![](https://media.tenor.com/Ip8PIT3v1FAAAAAi/123a.gif)
+ ![](https://media1.tenor.com/m/lH02DgjJ-zkAAAAC/luffy-one-piece.gif)
  
  
