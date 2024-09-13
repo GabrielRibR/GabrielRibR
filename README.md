@@ -4,7 +4,7 @@ Meu nome é Gabriel R.
 
 - Ainda sou um estudante do ensino médio
 - Estou estudando na Alura
-- Estou me desenvolvendo na linguagem JasaScript
+- Estou me desenvolvendo na linguagem JavaScript
 - Sei o básico de HTML e CSS
 
 ### Voce entrar em contato comigo 📫
